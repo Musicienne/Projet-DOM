@@ -27,3 +27,11 @@ justify-content: space-around;
     cursor: pointer;
 }
 
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table, th, td {
+    border: none;
+}
