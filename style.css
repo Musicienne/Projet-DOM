@@ -1,0 +1,29 @@
+.product{
+display: flex;
+flex-direction: column;
+width: 30%;
+}
+
+.products{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+}
+
+.flex{
+    display: flex;
+}
+
+.icon{
+    margin-left: 60px;
+    margin: auto;
+    cursor: pointer;
+}
+
+#color{
+    color: green;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+
